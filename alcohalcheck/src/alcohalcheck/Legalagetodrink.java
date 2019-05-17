@@ -14,12 +14,11 @@ public class Legalagetodrink {
 		 * */
 
 
-
-
-
-
 	}	
 
+	public void printAge() {
+		System.out.println("Testing age print");
+	}
 
 	public  void CheckAge() {
 		try{
